@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zQueenBlossom
+- 👋 Hi, I’m Maddie
 - 👀 I’m interested in System, Desktop and Game programming
 - 🌱 I’m currently learning SoftWare development
 - 💞️ I’m looking to collaborate on open-source projects
